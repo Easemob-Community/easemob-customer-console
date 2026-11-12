@@ -2,6 +2,12 @@
 
 智能客服系统的运营管理与坐席工作台。坐席在此接待访客会话,管理员在此维护账号、AI 配置、分配策略并查看运营数据。
 
+## 相关仓库
+
+- 服务端(Spring Boot):[easemob-customer-service](https://github.com/Easemob-Community/easemob-customer-service)
+- Web 访客端:[easemob-customer-web](https://github.com/Easemob-Community/easemob-customer-web)
+- 移动端(Flutter,iOS/Android):[easemob-customer-app](https://github.com/Easemob-Community/easemob-customer-app)
+
 ## 技术栈
 
 Vue 3 + Vite + TypeScript · Pinia · Vue Router · Element Plus · ECharts · 环信 Web SDK(坐席实时收发消息)
